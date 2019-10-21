@@ -1,5 +1,5 @@
 # Semana OmniStack 9
-Projeto de criação do Air_CNC, uma plataforma de aluguel de espaço para programadores. 
+Projeto de criação do Air CNC, uma plataforma de aluguel de espaço para programadores. 
 Realizado na semana OmniStack da Rocketseat.
 
 ## Stack
